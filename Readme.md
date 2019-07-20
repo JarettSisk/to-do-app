@@ -1,0 +1,1 @@
+A to-do application that uses the DOM and localStorage to allow users to create and remove items from a to-do list. To check out the app, go to: https://jarettsisk.github.io/to-do-app/index.html
